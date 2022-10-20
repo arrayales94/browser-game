@@ -1,5 +1,5 @@
 body {
-    background: #c1d72e;
+    background: #d72e2e;
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     color: #fff;
     height: 100%;
@@ -61,7 +61,7 @@ body {
     height: 30px;
     padding-top: 10px;
     background: #fff;
-    color: #c1d72e;
+    color: #0a0b03;
     cursor: pointer;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
