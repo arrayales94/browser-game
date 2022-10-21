@@ -57,9 +57,9 @@ const categories = [
   [
     "everton",
     "liverpool",
-    "swansea",
+    "arsenal",
     "chelsea",
-    "hull",
+    "wolverhampton-wanderers",
     "manchester-united",
     "newcastle-united"
   ],
@@ -71,11 +71,11 @@ const hints = [
   [
     "Based in Mersyside",
     "Based in Mersyside",
-    "First Welsh team to reach the Premier Leauge",
+    "The Gunners",
     "Owned by A russian Billionaire",
-    "Once managed by Phil Brown",
+    "a.k.a WOLVES",
     "Old Trafford",
-    "Gazza's first club"
+    "Featured in the movie GOAL"
   ],
   [
     "Science-Fiction horror film",
