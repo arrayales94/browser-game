@@ -1,4 +1,3 @@
-//const
 const container = document.getElementById("alphabetButtons");
 var answerDisplay = document.getElementById("hold");
 var answer = "";
@@ -12,6 +11,11 @@ const buttonReset = document.getElementById("reset");
 const livesDisplay = document.getElementById("mylives");
 var myStickman = document.getElementById("stickman");
 var context = myStickman.getContext("2d");
+
+//music
+window.addEventListener('click', () => {
+     document.getElementById("song").play();
+});
 
 //generate alphabet button
 function generateButton() {
